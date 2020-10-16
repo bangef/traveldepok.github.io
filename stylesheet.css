@@ -161,6 +161,11 @@ header {
     color: #BEBEBE;
 }
 
+.clear {
+    clear: both;
+    display: inline;
+}
+
 /* bottom-wrapper */
 .bottom-wrapper{
     background-image: url(Image/img_gambar5.jpg);
