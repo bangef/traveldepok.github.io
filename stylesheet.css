@@ -163,7 +163,7 @@ header {
 
 .clear {
     clear: both;
-    display: inline;
+    display: inline-block;
 }
 
 /* bottom-wrapper */
