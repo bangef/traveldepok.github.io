@@ -1,0 +1,80 @@
+/* untuk tablet */
+@media all and (max-width: 1000px) {
+   /* lesson-wrapper */
+   .lesson-wrapper {
+    height: 700px;
+  }
+
+   .lesson {
+    width: 33.33%;
+  }
+
+  .lesson-wrapper img {
+    width: 280px;
+    height: 130px;
+    border-radius: 20px;
+  }
+}
+
+/* untuk tablet */
+@media all and (max-width: 880px) {
+  .lesson-wrapper img {
+    width: 230px;
+    height: 100px;
+    border-radius: 20px;
+  }
+}
+
+/* untuk tablet */
+@media all and (max-width: 800px) {
+  .lesson-wrapper img {
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+  }
+}
+
+/* Untuk Smartphone */
+ @media all and (max-width: 670px) {
+  /* header  */
+  .head-left a {
+     font-size: 22px;
+   }
+
+   .head-right p {
+     font-size: 16px;
+   }
+
+   /* top-wrapper */
+   .top-wrapper h1 {
+     letter-spacing: 16px;
+   }
+
+   .top-wrapper p {
+     padding: 0 50px;
+   }
+
+   /* lesson-wrapper */
+   .lesson-wrapper {
+     height: 1320px;
+   }
+
+   .lesson-wrapper img {
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+  }
+
+   .lesson-wrapper h1 {
+    letter-spacing: 16px;
+  }
+
+  .lesson {
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+
+  .heading h2 {
+    letter-spacing: 16px;
+  }
+}
